@@ -1,2 +1,2 @@
 # HTTP-Python-Server
-Simple HTTP server in python.
+- A demonstration on how you can make a simple HTTP protocol server in Python.
